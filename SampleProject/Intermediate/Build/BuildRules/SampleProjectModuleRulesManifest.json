@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\panda\\OneDrive\\Documents\\GitHub\\FullyHacks-Unreal-Boilerplate\\SampleProject\\Source\\SampleProject\\SampleProject.Build.cs",
+		"C:\\Users\\panda\\OneDrive\\Documents\\GitHub\\FullyHacks-Unreal-Boilerplate\\SampleProject\\Source\\SampleProject.Target.cs",
+		"C:\\Users\\panda\\OneDrive\\Documents\\GitHub\\FullyHacks-Unreal-Boilerplate\\SampleProject\\Source\\SampleProjectEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

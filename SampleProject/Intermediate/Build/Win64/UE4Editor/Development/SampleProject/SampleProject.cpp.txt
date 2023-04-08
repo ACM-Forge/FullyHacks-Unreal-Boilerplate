@@ -1,0 +1,2 @@
+C:\Users\panda\OneDrive\Documents\GitHub\FullyHacks-Unreal-Boilerplate\SampleProject\Intermediate\Build\Win64\UE4Editor\Development\SampleProject\Definitions.SampleProject.h
+C:\Users\panda\OneDrive\Documents\GitHub\FullyHacks-Unreal-Boilerplate\SampleProject\Source\SampleProject\SampleProject.h

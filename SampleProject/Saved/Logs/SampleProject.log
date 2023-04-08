@@ -1,0 +1,1192 @@
+﻿Log file open, 04/08/23 14:55:27
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: SampleProject
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.429483
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogLuminAPIImpl: Warning: MLSDK not found.  This likely means the MLSDK environment variable is not set.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 5 5600H with Radeon Graphics         , GPU: AMD Radeon(TM) Graphics
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line:  -EpicPortal -epicusername=Pandamatrixx -epicuserid=d6169239e74e4ca4b5aea3e153b98cd7 -epiclocale=en -epicsandboxid=ue
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2023.04.08-21.55.28:101][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2023.04.08-21.55.28:101][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2023.04.08-21.55.28:101][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Saved/Config/Windows/Engine.ini]
+[2023.04.08-21.55.28:101][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2023.04.08-21.55.28:101][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Saved/Config/Windows/Engine.ini]
+[2023.04.08-21.55.28:101][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Saved/Config/Windows/Engine.ini]
+[2023.04.08-21.55.28:101][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2023.04.08-21.55.28:101][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2023.04.08-21.55.28:101][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2023.04.08-21.55.28:101][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2023.04.08-21.55.28:101][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2023.04.08-21.55.28:101][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2023.04.08-21.55.28:101][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2023.04.08-21.55.28:101][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2023.04.08-21.55.28:101][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2023.04.08-21.55.28:101][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2023.04.08-21.55.28:101][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2023.04.08-21.55.28:101][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2023.04.08-21.55.28:101][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2023.04.08-21.55.28:101][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2023.04.08-21.55.28:101][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Saved/Config/Windows/Engine.ini]
+[2023.04.08-21.55.28:101][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2023.04.08-21.55.28:101][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2023.04.08-21.55.28:101][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2023.04.08-21.55.28:101][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2023.04.08-21.55.28:102][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2023.04.08-21.55.28:102][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2023.04.08-21.55.28:102][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2023.04.08-21.55.28:102][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2023.04.08-21.55.28:102][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2023.04.08-21.55.28:102][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2023.04.08-21.55.28:102][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2023.04.08-21.55.28:102][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2023.04.08-21.55.28:102][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2023.04.08-21.55.28:102][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2023.04.08-21.55.28:102][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Saved/Config/Windows/Engine.ini]
+[2023.04.08-21.55.28:102][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Saved/Config/Windows/Engine.ini]
+[2023.04.08-21.55.28:120][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Saved/Config/Windows/Scalability.ini]
+[2023.04.08-21.55.28:120][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.04.08-21.55.28:120][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.04.08-21.55.28:120][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Saved/Config/Windows/Scalability.ini]
+[2023.04.08-21.55.28:120][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.04.08-21.55.28:120][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Saved/Config/Windows/Scalability.ini]
+[2023.04.08-21.55.28:120][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.04.08-21.55.28:120][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.04.08-21.55.28:120][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.04.08-21.55.28:120][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.04.08-21.55.28:120][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.04.08-21.55.28:120][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.04.08-21.55.28:120][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.04.08-21.55.28:120][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.04.08-21.55.28:120][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.04.08-21.55.28:120][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.04.08-21.55.28:120][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.04.08-21.55.28:120][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.04.08-21.55.28:120][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.04.08-21.55.28:120][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.04.08-21.55.28:120][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.04.08-21.55.28:120][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.04.08-21.55.28:120][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.04.08-21.55.28:120][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.04.08-21.55.28:120][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Saved/Config/Windows/Scalability.ini]
+[2023.04.08-21.55.28:120][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.04.08-21.55.28:120][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.04.08-21.55.28:120][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.04.08-21.55.28:120][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.04.08-21.55.28:120][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.04.08-21.55.28:120][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.04.08-21.55.28:120][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.04.08-21.55.28:120][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.04.08-21.55.28:120][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.04.08-21.55.28:120][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.04.08-21.55.28:122][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.04.08-21.55.28:122][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.04.08-21.55.28:122][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.04.08-21.55.28:122][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.04.08-21.55.28:122][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.04.08-21.55.28:122][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.04.08-21.55.28:122][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.04.08-21.55.28:122][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.04.08-21.55.28:122][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.04.08-21.55.28:122][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.04.08-21.55.28:122][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.04.08-21.55.28:122][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.04.08-21.55.28:122][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.04.08-21.55.28:122][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.04.08-21.55.28:122][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.04.08-21.55.28:122][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.04.08-21.55.28:122][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.04.08-21.55.28:122][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.04.08-21.55.28:122][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.04.08-21.55.28:122][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.04.08-21.55.28:122][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Saved/Config/Windows/Scalability.ini]
+[2023.04.08-21.55.28:122][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.04.08-21.55.28:122][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.04.08-21.55.28:122][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.04.08-21.55.28:122][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.04.08-21.55.28:122][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.04.08-21.55.28:122][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.04.08-21.55.28:122][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.04.08-21.55.28:122][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.04.08-21.55.28:122][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.04.08-21.55.28:122][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Saved/Config/Windows/Scalability.ini]
+[2023.04.08-21.55.28:122][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.04.08-21.55.28:122][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.04.08-21.55.28:122][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.04.08-21.55.28:122][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.04.08-21.55.28:122][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.04.08-21.55.28:122][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.04.08-21.55.28:122][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.04.08-21.55.28:122][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.04.08-21.55.28:122][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.04.08-21.55.28:122][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.04.08-21.55.28:122][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.04.08-21.55.28:122][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.04.08-21.55.28:122][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.04.08-21.55.28:122][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.04.08-21.55.28:122][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.04.08-21.55.28:122][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.04.08-21.55.28:122][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.04.08-21.55.28:122][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.04.08-21.55.28:122][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.04.08-21.55.28:122][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.04.08-21.55.28:123][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.04.08-21.55.28:123][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.04.08-21.55.28:123][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.04.08-21.55.28:123][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.04.08-21.55.28:123][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.04.08-21.55.28:123][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.04.08-21.55.28:123][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.04.08-21.55.28:123][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.04.08-21.55.28:123][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Saved/Config/Windows/Scalability.ini]
+[2023.04.08-21.55.28:123][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.04.08-21.55.28:123][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.04.08-21.55.28:123][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Saved/Config/Windows/Scalability.ini]
+[2023.04.08-21.55.28:123][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.04.08-21.55.28:123][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.04.08-21.55.28:123][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.04.08-21.55.28:123][  0]LogInit: Selected Device Profile: [Windows]
+[2023.04.08-21.55.28:123][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2023.04.08-21.55.28:123][  0]LogHAL: Display: Platform has ~ 16 GB [16474238976 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.04.08-21.55.28:123][  0]LogInit: Going up to parent DeviceProfile []
+[2023.04.08-21.55.28:123][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Saved/Config/Windows/Scalability.ini]
+[2023.04.08-21.55.28:123][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.04.08-21.55.28:123][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.04.08-21.55.28:123][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Saved/Config/Windows/Scalability.ini]
+[2023.04.08-21.55.28:123][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.04.08-21.55.28:123][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Saved/Config/Windows/Scalability.ini]
+[2023.04.08-21.55.28:123][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.04.08-21.55.28:123][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.04.08-21.55.28:123][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.04.08-21.55.28:123][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.04.08-21.55.28:123][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.04.08-21.55.28:123][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.04.08-21.55.28:123][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.04.08-21.55.28:123][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.04.08-21.55.28:124][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.04.08-21.55.28:124][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.04.08-21.55.28:124][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.04.08-21.55.28:124][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.04.08-21.55.28:124][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.04.08-21.55.28:124][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.04.08-21.55.28:124][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.04.08-21.55.28:124][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.04.08-21.55.28:124][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.04.08-21.55.28:124][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.04.08-21.55.28:124][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Saved/Config/Windows/Scalability.ini]
+[2023.04.08-21.55.28:124][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.04.08-21.55.28:124][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.04.08-21.55.28:124][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.04.08-21.55.28:124][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.04.08-21.55.28:124][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.04.08-21.55.28:124][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.04.08-21.55.28:124][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.04.08-21.55.28:124][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.04.08-21.55.28:124][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.04.08-21.55.28:124][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.04.08-21.55.28:124][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.04.08-21.55.28:124][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.04.08-21.55.28:124][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.04.08-21.55.28:124][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.04.08-21.55.28:124][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.04.08-21.55.28:124][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.04.08-21.55.28:124][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.04.08-21.55.28:124][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.04.08-21.55.28:124][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.04.08-21.55.28:124][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.04.08-21.55.28:124][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.04.08-21.55.28:124][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.04.08-21.55.28:124][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.04.08-21.55.28:124][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.04.08-21.55.28:124][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.04.08-21.55.28:125][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.04.08-21.55.28:125][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.04.08-21.55.28:125][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.04.08-21.55.28:125][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.04.08-21.55.28:125][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.04.08-21.55.28:125][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Saved/Config/Windows/Scalability.ini]
+[2023.04.08-21.55.28:125][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.04.08-21.55.28:125][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.04.08-21.55.28:125][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.04.08-21.55.28:125][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.04.08-21.55.28:125][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.04.08-21.55.28:125][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.04.08-21.55.28:125][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.04.08-21.55.28:125][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.04.08-21.55.28:125][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.04.08-21.55.28:125][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Saved/Config/Windows/Scalability.ini]
+[2023.04.08-21.55.28:125][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.04.08-21.55.28:125][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.04.08-21.55.28:125][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.04.08-21.55.28:125][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.04.08-21.55.28:125][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.04.08-21.55.28:125][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.04.08-21.55.28:125][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.04.08-21.55.28:125][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.04.08-21.55.28:125][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.04.08-21.55.28:125][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.04.08-21.55.28:125][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.04.08-21.55.28:125][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.04.08-21.55.28:125][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.04.08-21.55.28:125][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.04.08-21.55.28:125][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.04.08-21.55.28:125][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.04.08-21.55.28:125][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.04.08-21.55.28:125][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.04.08-21.55.28:125][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.04.08-21.55.28:125][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.04.08-21.55.28:125][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.04.08-21.55.28:125][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.04.08-21.55.28:125][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.04.08-21.55.28:125][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.04.08-21.55.28:125][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.04.08-21.55.28:125][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.04.08-21.55.28:125][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.04.08-21.55.28:125][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.04.08-21.55.28:125][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Saved/Config/Windows/Scalability.ini]
+[2023.04.08-21.55.28:125][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.04.08-21.55.28:125][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.04.08-21.55.28:125][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Saved/Config/Windows/Scalability.ini]
+[2023.04.08-21.55.28:125][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.04.08-21.55.28:125][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.04.08-21.55.28:126][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.04.08-21.55.28:126][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.04.08-21.55.28:126][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2023.04.08-21.55.28:126][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2023.04.08-21.55.28:126][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2023.04.08-21.55.28:126][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Saved/Config/Windows/Engine.ini]
+[2023.04.08-21.55.28:126][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Saved/Config/Windows/Editor.ini]
+[2023.04.08-21.55.28:126][  0]LogInit: Computer: JELLYFISH-PC
+[2023.04.08-21.55.28:126][  0]LogInit: User: panda
+[2023.04.08-21.55.28:126][  0]LogInit: CPU Page size=4096, Cores=6
+[2023.04.08-21.55.28:126][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.04.08-21.55.28:126][  0]LogMemory: Memory total: Physical=15.3GB (16GB approx)
+[2023.04.08-21.55.28:126][  0]LogMemory: Platform Memory Stats for Windows
+[2023.04.08-21.55.28:126][  0]LogMemory: Process Physical Memory: 143.43 MB used, 143.43 MB peak
+[2023.04.08-21.55.28:126][  0]LogMemory: Process Virtual Memory: 113.96 MB used, 113.96 MB peak
+[2023.04.08-21.55.28:127][  0]LogMemory: Physical Memory: 9917.27 MB used,  5793.79 MB free, 15711.06 MB total
+[2023.04.08-21.55.28:127][  0]LogMemory: Virtual Memory: 134213408.00 MB used,  4316.66 MB free, 134217728.00 MB total
+[2023.04.08-21.55.28:137][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.04.08-21.55.28:224][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2023.04.08-21.55.28:225][  0]LogInit: Using OS detected language (en-US).
+[2023.04.08-21.55.28:225][  0]LogInit: Using OS detected locale (en-US).
+[2023.04.08-21.55.28:234][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2023.04.08-21.55.28:659][  0]LogInit: Setting process to per monitor DPI aware
+[2023.04.08-21.55.28:687][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.04.08-21.55.28:711][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.04.08-21.55.28:711][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.04.08-21.55.29:020][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2023.04.08-21.55.29:027][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.04.08-21.55.29:027][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2023.04.08-21.55.29:027][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2023.04.08-21.55.29:027][  0]LogD3D11RHI: D3D11 adapters:
+[2023.04.08-21.55.29:147][  0]LogD3D11RHI:    0. 'AMD Radeon(TM) Graphics' (Feature Level 11_0)
+[2023.04.08-21.55.29:147][  0]LogD3D11RHI:       495/0/7855 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2023.04.08-21.55.29:329][  0]LogD3D11RHI:    1. 'NVIDIA GeForce GTX 1650' (Feature Level 11_0)
+[2023.04.08-21.55.29:329][  0]LogD3D11RHI:       3962/0/7855 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x10de
+[2023.04.08-21.55.29:333][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2023.04.08-21.55.29:333][  0]LogD3D11RHI:       0/0/7855 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.04.08-21.55.29:333][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2023.04.08-21.55.29:333][  0]LogD3D11RHI:     Description : AMD Radeon(TM) Graphics
+[2023.04.08-21.55.29:333][  0]LogD3D11RHI:     VendorId    : 1002
+[2023.04.08-21.55.29:333][  0]LogD3D11RHI:     DeviceId    : 1638
+[2023.04.08-21.55.29:333][  0]LogD3D11RHI:     SubSysId    : 8a3e103c
+[2023.04.08-21.55.29:333][  0]LogD3D11RHI:     Revision    : 00c6
+[2023.04.08-21.55.29:333][  0]LogD3D11RHI:     DedicatedVideoMemory : 519847936 bytes
+[2023.04.08-21.55.29:333][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.04.08-21.55.29:333][  0]LogD3D11RHI:     SharedSystemMemory : 8237119488 bytes
+[2023.04.08-21.55.29:333][  0]LogD3D11RHI:     AdapterLuid : 0 71709
+[2023.04.08-21.55.29:342][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.04.08-21.55.29:342][  0]LogD3D11RHI:     GPU DeviceId: 0x1638 (for the marketing name, search the web for "GPU Device Id")
+[2023.04.08-21.55.29:342][  0]LogWindows: EnumDisplayDevices:
+[2023.04.08-21.55.29:342][  0]LogWindows:    0. 'AMD Radeon(TM) Graphics' (P:1 D:1)
+[2023.04.08-21.55.29:343][  0]LogWindows:    1. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2023.04.08-21.55.29:343][  0]LogWindows:    2. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2023.04.08-21.55.29:344][  0]LogWindows:    3. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2023.04.08-21.55.29:344][  0]LogWindows:    4. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2023.04.08-21.55.29:345][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1650' (P:0 D:0)
+[2023.04.08-21.55.29:345][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter FoundDriverCount:5 
+[2023.04.08-21.55.29:345][  0]LogD3D11RHI:     Adapter Name: AMD Radeon(TM) Graphics
+[2023.04.08-21.55.29:345][  0]LogD3D11RHI:   Driver Version: AMD Software: Adrenalin Edition 22.20.02.07 (internal:31.0.12002.7004, unified:31.0.12002.7004)
+[2023.04.08-21.55.29:345][  0]LogD3D11RHI:      Driver Date: 8-24-2022
+[2023.04.08-21.55.29:345][  0]LogRHI: Texture pool is 5374 MB (70% of 7677 MB)
+[2023.04.08-21.55.29:377][  0]LogD3D11RHI: Creating D3DDevice with AMD AGS, using adapter:
+[2023.04.08-21.55.29:377][  0]LogD3D11RHI:     Description : AMD Radeon(TM) Graphics
+[2023.04.08-21.55.29:377][  0]LogD3D11RHI:     VendorId    : 1002
+[2023.04.08-21.55.29:377][  0]LogD3D11RHI:     DeviceId    : 1638
+[2023.04.08-21.55.29:377][  0]LogD3D11RHI:     SubSysId    : 8a3e103c
+[2023.04.08-21.55.29:377][  0]LogD3D11RHI:     Revision    : 00c6
+[2023.04.08-21.55.29:377][  0]LogD3D11RHI:     DedicatedVideoMemory : 519847936 bytes
+[2023.04.08-21.55.29:377][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.04.08-21.55.29:378][  0]LogD3D11RHI:     SharedSystemMemory : 8237119488 bytes
+[2023.04.08-21.55.29:378][  0]LogD3D11RHI:     AdapterLuid : 0 71709
+[2023.04.08-21.55.29:490][  0]LogD3D11RHI: Created device via AGS, feature level 11_0, supported extensions 1fffffbf.
+[2023.04.08-21.55.29:490][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2023.04.08-21.55.29:490][  0]LogD3D11RHI: Async texture creation enabled
+[2023.04.08-21.55.29:490][  0]LogD3D11RHI: Array index from any shader is supported
+[2023.04.08-21.55.29:507][  0]LogD3D11RHI: GPU Timing Frequency: 100.000000 (Debug: 2 1)
+[2023.04.08-21.55.30:211][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2023.04.08-21.55.30:266][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.04.08-21.55.30:266][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.04.08-21.55.30:266][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.04.08-21.55.30:266][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.04.08-21.55.30:266][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.04.08-21.55.30:266][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.04.08-21.55.30:266][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.04.08-21.55.30:266][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.04.08-21.55.30:266][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.04.08-21.55.30:266][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.04.08-21.55.30:312][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.04.08-21.55.30:313][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.04.08-21.55.30:339][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.04.08-21.55.30:351][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2023.04.08-21.55.30:363][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.04.08-21.55.30:374][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.04.08-21.55.30:399][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2023.04.08-21.55.30:410][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2023.04.08-21.55.30:421][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2023.04.08-21.55.30:478][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2023.04.08-21.55.30:478][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2023.04.08-21.55.30:497][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2023.04.08-21.55.30:507][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2023.04.08-21.55.30:516][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2023.04.08-21.55.30:525][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2023.04.08-21.55.30:544][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.04.08-21.55.30:544][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.04.08-21.55.30:568][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2023.04.08-21.55.30:580][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.04.08-21.55.30:591][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.04.08-21.55.30:605][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.04.08-21.55.30:605][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2023.04.08-21.55.30:626][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.04.08-21.55.30:717][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2023.04.08-21.55.30:791][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.04.08-21.55.30:791][  0]LogShaderCompilers: Guid format shader working directory is -53 characters bigger than the processId version (../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Intermediate/Shaders/WorkingDirectory/8680/).
+[2023.04.08-21.55.30:791][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/panda/AppData/Local/Temp/UnrealShaderWorkingDir/6F97230244620D409DC575AE0EF25866/'.
+[2023.04.08-21.55.30:791][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.04.08-21.55.30:791][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2023.04.08-21.55.30:791][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2023.04.08-21.55.32:482][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2023.04.08-21.55.32:562][  0]LogDerivedDataCache: Loaded boot cache 0.08s 96MB C:/Users/panda/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.04.08-21.55.32:562][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/panda/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2023.04.08-21.55.32:562][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.04.08-21.55.32:562][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2023.04.08-21.55.32:563][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.04.08-21.55.32:563][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2023.04.08-21.55.32:601][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2023.04.08-21.55.32:602][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.04.08-21.55.32:602][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2023.04.08-21.55.32:615][  0]LogDerivedDataCache: Speed tests for C:/Users/panda/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2023.04.08-21.55.32:615][  0]LogDerivedDataCache: Display: Performance to C:/Users/panda/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.04ms. RandomReadSpeed=505.26MBs, RandomWriteSpeed=87.09MBs. Assigned SpeedClass 'Local'
+[2023.04.08-21.55.32:621][  0]LogDerivedDataCache: Using Local data cache path C:/Users/panda/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.04.08-21.55.32:621][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.04.08-21.55.32:621][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2023.04.08-21.55.32:731][  0]LogSlate: Using FreeType 2.10.0
+[2023.04.08-21.55.32:732][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.04.08-21.55.32:777][  0]LogAssetRegistry: FAssetRegistry took 0.0060 seconds to start up
+[2023.04.08-21.55.33:420][  0]LogInit: Selected Device Profile: [Windows]
+[2023.04.08-21.55.33:420][  0]LogInit: Active device profile: [0000021B152E7200][0000021B09BCECC0 49] Windows
+[2023.04.08-21.55.33:420][  0]LogInit: Profiles: [0000021B152E7200][0000021B09BCECC0 49] Windows, [0000021B152B1200][0000021B14374F80 49] WindowsNoEditor, [0000021B152E5100][0000021B14379240 49] WindowsServer, [0000021B152B3100][0000021B1437D500 49] WindowsClient, [0000021B152E6F00][0000021B143817C0 49] IOS, [0000021B152B1400][0000021B14385A80 49] iPadAir, [0000021B152E5200][0000021B143881C0 49] iPadAir2, [0000021B1525C400][0000021B1439C700 49] IPadPro, [0000021B1525C500][0000021B1438C740 49] iPadAir3, [0000021B152E6E00][0000021B14394A00 49] iPadAir4, [0000021B1525EC00][0000021B14370C80 49] iPadMini2, [0000021B152E5400][0000021B14390F00 49] iPadMini3, [0000021B1525D700][0000021B143A11C0 49] iPadMini4, [0000021B152E6B00][0000021B143A5480 49] iPadMini5, [0000021B1525BC00][0000021B143B99C0 49] iPhone6, [0000021B1525BD00][0000021B143A9A00 49] iPodTouch6, [0000021B1525FC00][0000021B143C03C0 49] iPhone7, [0000021B1525C300][0000021B143B0400 49] iPodTouch7, [0000021B15259300][0000021B143B46C0 49] iPhone5S, [0000021B1525DF00][0000021B143AC980 49] iPhone6Plus, [0000021B1525AD00][0000021B143BCC40 49] iPhone6S, [0000021B1525ED00][0000021B14398EC0 49] iPhone6SPlus, [0000021B15259600][0000021B143C5140 49] iPhone7Plus, [0000021B1525DC00][0000021B143CD400 49] iPhoneSE, [0000021B1525A900][0000021B143D16C0 49] iPhone8, [0000021B1525D400][0000021B143D5980 49] iPhone8Plus, [0000021B15259A00][0000021B143D80C0 49] iPhoneX, [0000021B1525DA00][0000021B143DC380 49] iPhoneXS, [0000021B1525A700][0000021B143E0640 49] iPhoneXSMax, [0000021B1525E400][0000021B143E4900 49] iPhoneXR, [0000021B1525B800][0000021B143E8BC0 49] iPhone11, [0000021B1525C200][0000021B143ECE80 49] iPhone11Pro, [0000021B1525A500][0000021B143C9100 49] iPhone11ProMax, [0000021B1525E900][0000021B143F1380 49] iPhoneSE2, [0000021B15259E00][0000021B143F9640 49] iPhone12Mini, [0000021B1525C700][0000021B143FD900 49] iPhone12, [0000021B1525A200][0000021B14401BC0 49] iPhone12Pro, [0000021B1525D800][0000021B14404300 49] iPhone12ProMax, [0000021B1525A100][0000021B144085C0 49] iPadPro105, [0000021B1525CE00][0000021B1440C880 49] iPadPro129, [0000021B15259C00][0000021B14410B40 49] iPadPro97, [0000021B1525C900][0000021B14414E00 49] iPadPro2_129, [0000021B1525A800][0000021B144430C0 49] iPad5, [0000021B1525CD00][0000021B143F5340 49] iPad6, [0000021B15258400][0000021B144595C0 49] iPad7, [0000021B1525DE00][0000021B14461880 49] iPad8, [0000021B1525BA00][0000021B14465B40 49] iPadPro11, [0000021B1525FE00][0000021B14468280 49] iPadPro2_11, [0000021B15258900][0000021B1446C540 49] iPadPro3_129, [0000021B1525E700][0000021B14470800 49] iPadPro4_129, [0000021B1525A400][0000021B14474AC0 49] AppleTV, [0000021B1525F000][0000021B14478D80 49] AppleTV4K, [0000021B1525AF00][0000021B1447D040 49] TVOS, [0000021B1525F200][0000021B14481300 49] Mac, [0000021B15259500][0000021B1445D580 49] MacClient, [0000021B1525D900][0000021B14489840 49] MacNoEditor, [0000021B1525A600][0000021B1448DB00 49] MacServer, [0000021B1525CA00][0000021B14490240 49] Linux, [0000021B1525AC00][0000021B14494500 49] LinuxAArch64, [0000021B1525CF00][0000021B144987C0 49] LinuxNoEditor, [0000021B1532DA00][0000021B1449CA80 49] LinuxAArch64NoEditor, [0000021B152B0C00][0000021B144A0D40 49] LinuxClient, [0000021B1532CB00][0000021B144A5000 49] LinuxAArch64Client, [0000021B152B1C00][0000021B144A92C0 49] LinuxServer, [0000021B1532D100][0000021B14485540 49] LinuxAArch64Server, [0000021B152B2700][0000021B144AD7C0 49] Android, [0000021B1532C500][0000021B154C5A80 49] Android_Low, [0000021B152B0A00][0000021B154C81C0 49] Android_Mid, [0000021B1532DC00][0000021B154CC480 49] Android_High, [0000021B152B2100][0000021B154D0740 49] Android_Default, [0000021B1532D500][0000021B154D4A00 49] Android_Adreno4xx, [0000021B152B1800][0000021B154D8CC0 49] Android_Adreno5xx_Low, [0000021B1532CD00][0000021B154DCF80 49] Android_Adreno5xx, [0000021B152B0900][0000021B154E1240 49] Android_Adreno6xx, [0000021B1532D400][0000021B154E5500 49] Android_Adreno6xx_Vulkan, [0000021B152B2300][0000021B154C1780 49] Android_Mali_T6xx, [0000021B1532D200][0000021B154E9A00 49] Android_Mali_T7xx, [0000021B152B3800][0000021B154F0140 49] Android_Mali_T8xx, [0000021B1532C700][0000021B154F4400 49] Android_Mali_G71, [0000021B152B1B00][0000021B154F86C0 49] Android_Mali_G72, [0000021B1525D600][0000021B154FC980 49] Android_Mali_G72_Vulkan, [0000021B1525B700][0000021B15500C40 49] Android_Mali_G76, [0000021B1525FD00][0000021B15504F00 49] Android_Mali_G76_Vulkan, [0000021B1525BB00][0000021B155091C0 49] Android_Mali_G77, [0000021B1525DD00][0000021B1550D480 49] Android_Mali_G77_Vulkan, [0000021B15259D00][0000021B15511740 49] Android_Mali_G78, [0000021B1525CB00][0000021B154ED9C0 49] Android_Mali_G78_Vulkan, [0000021B15259100][0000021B155140C0 49] Android_Mali_G710, [0000021B1525D500][0000021B1551C380 49] Android_Mali_G710_Vulkan, [0000021B1525AE00][0000021B15520640 49] Android_Vulkan_SM5, [0000021B1525DB00][0000021B15524900 49] Android_PowerVR_G6xxx, [0000021B15259F00][0000021B15528BC0 49] Android_PowerVR_GT7xxx, [0000021B1525F900][0000021B1552CE80 49] Android_PowerVR_GE8xxx, [0000021B15259800][0000021B15531140 49] Android_PowerVR_GM9xxx, [0000021B1525E600][0000021B15535400 49] Android_PowerVR_GM9xxx_Vulkan, [0000021B1525AA00][0000021B155396C0 49] Android_TegraK1, [0000021B1525F400][0000021B1553D980 49] Android_Unknown_Vulkan, [0000021B15258500][0000021B15519C00 49] Lumin, [0000021B1525D100][0000021B15540300 49] Lumin_Desktop, [0000021B15258F00][0000021B155485C0 49] HoloLens, 
+[2023.04.08-21.55.33:757][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.04.08-21.55.33:757][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.04.08-21.55.33:757][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.04.08-21.55.33:757][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.04.08-21.55.33:757][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.04.08-21.55.33:797][  0]LogNetVersion: SampleProject 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 581067603)
+[2023.04.08-21.55.34:872][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2023.04.08-21.55.34:991][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2023.04.08-21.55.35:005][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2023.04.08-21.55.35:006][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2023.04.08-21.55.35:006][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.04.08-21.55.35:766][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: EB43A3A04A09B592D9AEB2BE18B81DB0 | Instance: B9DEA27C4E6109D6F803A1BC425AD6B2 (JELLYFISH-PC-8680).
+[2023.04.08-21.55.36:094][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.04.08-21.55.36:131][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.04.08-21.55.36:175][  0]LogPython: Using Python 3.7.7
+[2023.04.08-21.55.38:773][  0]SourceControl: Source control is disabled
+[2023.04.08-21.55.38:773][  0]SourceControl: Source control is disabled
+[2023.04.08-21.55.38:797][  0]SourceControl: Source control is disabled
+[2023.04.08-21.55.38:824][  0]SourceControl: Source control is disabled
+[2023.04.08-21.55.38:833][  0]SourceControl: Source control is disabled
+[2023.04.08-21.55.38:912][  0]LogUProjectInfo: Found projects:
+[2023.04.08-21.55.39:439][  0]LogOpenImageDenoise: OIDN starting up
+[2023.04.08-21.55.39:488][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.04.08-21.55.39:503][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.04.08-21.55.39:503][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.04.08-21.55.39:818][  0]LogCollectionManager: Loaded 0 collections in 0.004634 seconds
+[2023.04.08-21.55.39:872][  0]LogFileCache: Scanning file cache for directory 'C:/Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Saved/Collections/' took 0.00s
+[2023.04.08-21.55.39:872][  0]LogFileCache: Scanning file cache for directory 'C:/Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/Developers/panda/Collections/' took 0.00s
+[2023.04.08-21.55.39:872][  0]LogFileCache: Scanning file cache for directory 'C:/Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/Collections/' took 0.00s
+[2023.04.08-21.55.39:872][  0]LogOcInput: OculusInput pre-init called
+[2023.04.08-21.55.40:418][  0]LogEngine: Initializing Engine...
+[2023.04.08-21.55.40:535][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2023.04.08-21.55.40:536][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.04.08-21.55.40:536][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2023.04.08-21.55.40:539][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.04.08-21.55.40:817][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.04.08-21.55.40:832][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.04.08-21.55.40:832][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.04.08-21.55.40:840][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.04.08-21.55.40:840][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.04.08-21.55.40:842][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.04.08-21.55.40:842][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.04.08-21.55.40:842][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.08-21.55.40:843][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.08-21.55.40:843][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.08-21.55.40:843][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.08-21.55.40:843][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.08-21.55.40:843][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.08-21.55.40:843][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.08-21.55.40:843][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.08-21.55.40:843][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.08-21.55.40:843][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.08-21.55.40:843][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.08-21.55.40:843][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.08-21.55.40:879][  0]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.08-21.55.40:879][  0]LogAudioMixer: Display: 1: FrontRight
+[2023.04.08-21.55.41:428][  0]LogAudioMixer: Display: Using Audio Device Speaker (Realtek(R) Audio)
+[2023.04.08-21.55.41:432][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.08-21.55.41:437][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.08-21.55.41:437][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.08-21.55.41:439][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.08-21.55.41:439][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.08-21.55.41:439][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.08-21.55.41:443][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.08-21.55.41:443][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.08-21.55.41:443][  0]LogInit: FAudioDevice initialized.
+[2023.04.08-21.55.41:444][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.04.08-21.55.41:444][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.04.08-21.55.41:545][  0]LogDerivedDataCache: Saved boot cache 0.10s 103MB C:/Users/panda/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.04.08-21.55.41:546][  0]LogInit: Texture streaming: Enabled
+[2023.04.08-21.55.41:572][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2023.04.08-21.55.41:579][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.04.08-21.55.41:579][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2023.04.08-21.55.41:582][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2023.04.08-21.55.41:620][  0]LogInit: Transaction tracking system initialized
+[2023.04.08-21.55.41:670][  0]BlueprintLog: New page: Editor Load
+[2023.04.08-21.55.41:847][  0]LocalizationService: Localization service is disabled
+[2023.04.08-21.55.41:898][  0]TimingProfiler: Initialize
+[2023.04.08-21.55.41:898][  0]TimingProfiler: OnSessionChanged
+[2023.04.08-21.55.41:898][  0]LoadingProfiler: Initialize
+[2023.04.08-21.55.41:898][  0]LoadingProfiler: OnSessionChanged
+[2023.04.08-21.55.41:898][  0]NetworkingProfiler: Initialize
+[2023.04.08-21.55.41:898][  0]NetworkingProfiler: OnSessionChanged
+[2023.04.08-21.55.41:898][  0]MemoryProfiler: Initialize
+[2023.04.08-21.55.41:898][  0]MemoryProfiler: OnSessionChanged
+[2023.04.08-21.55.42:278][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2023.04.08-21.55.42:278][  0]LogCook: Display: Mobile HDR setting 1
+[2023.04.08-21.55.42:576][  0]LogFileCache: Scanning file cache for directory 'C:/Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/' took 0.01s
+[2023.04.08-21.55.43:083][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.04.08-21.55.43:094][  0]SourceControl: Source control is disabled
+[2023.04.08-21.55.43:094][  0]LogUnrealEdMisc: Loading editor; pre map load, took 17.424
+[2023.04.08-21.55.43:102][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2023.04.08-21.55.43:103][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.04.08-21.55.43:103][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.08-21.55.43:103][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.04.08-21.55.43:120][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2023.04.08-21.55.43:132][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2023.04.08-21.55.43:145][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2023.04.08-21.55.43:159][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2023.04.08-21.55.43:171][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2023.04.08-21.55.43:191][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2023.04.08-21.55.43:204][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2023.04.08-21.55.43:216][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2023.04.08-21.55.43:235][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2023.04.08-21.55.43:246][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2023.04.08-21.55.43:256][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2023.04.08-21.55.43:267][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2023.04.08-21.55.43:279][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Audio/Collapse01.uasset"
+[2023.04.08-21.55.43:291][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Audio/Collapse02.uasset"
+[2023.04.08-21.55.43:299][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2023.04.08-21.55.43:312][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Audio/Explosion01.uasset"
+[2023.04.08-21.55.43:324][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Audio/Explosion02.uasset"
+[2023.04.08-21.55.43:335][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2023.04.08-21.55.43:347][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Audio/Fire01.uasset"
+[2023.04.08-21.55.43:356][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2023.04.08-21.55.43:369][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2023.04.08-21.55.43:378][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2023.04.08-21.55.43:393][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Audio/Light01.uasset"
+[2023.04.08-21.55.43:405][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2023.04.08-21.55.43:423][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Audio/Light02.uasset"
+[2023.04.08-21.55.43:433][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2023.04.08-21.55.43:451][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Audio/Smoke01.uasset"
+[2023.04.08-21.55.43:460][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2023.04.08-21.55.43:471][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2023.04.08-21.55.43:486][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2023.04.08-21.55.43:509][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2023.04.08-21.55.43:519][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2023.04.08-21.55.43:533][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2023.04.08-21.55.43:548][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2023.04.08-21.55.43:563][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Audio/Steam01.uasset"
+[2023.04.08-21.55.43:574][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2023.04.08-21.55.43:585][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2023.04.08-21.55.43:596][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2023.04.08-21.55.43:607][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2023.04.08-21.55.43:620][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2023.04.08-21.55.43:631][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2023.04.08-21.55.43:644][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2023.04.08-21.55.43:655][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2023.04.08-21.55.43:669][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2023.04.08-21.55.43:682][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2023.04.08-21.55.43:694][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2023.04.08-21.55.43:704][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2023.04.08-21.55.43:716][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2023.04.08-21.55.43:727][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2023.04.08-21.55.43:739][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2023.04.08-21.55.43:768][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2023.04.08-21.55.43:778][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2023.04.08-21.55.43:862][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2023.04.08-21.55.43:874][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2023.04.08-21.55.43:888][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2023.04.08-21.55.43:902][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Maps/Minimal_Default.umap"
+[2023.04.08-21.55.43:917][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2023.04.08-21.55.43:930][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Maps/StarterMap.umap"
+[2023.04.08-21.55.43:966][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2023.04.08-21.55.43:982][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2023.04.08-21.55.43:998][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2023.04.08-21.55.44:010][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2023.04.08-21.55.44:021][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2023.04.08-21.55.44:033][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2023.04.08-21.55.44:044][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2023.04.08-21.55.44:056][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2023.04.08-21.55.44:067][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2023.04.08-21.55.44:079][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2023.04.08-21.55.44:092][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2023.04.08-21.55.44:105][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2023.04.08-21.55.44:117][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2023.04.08-21.55.44:134][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2023.04.08-21.55.44:147][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2023.04.08-21.55.44:159][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2023.04.08-21.55.44:170][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2023.04.08-21.55.44:182][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2023.04.08-21.55.44:195][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Materials/M_Glass.uasset"
+[2023.04.08-21.55.44:205][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2023.04.08-21.55.44:218][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2023.04.08-21.55.44:227][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2023.04.08-21.55.44:238][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2023.04.08-21.55.44:250][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2023.04.08-21.55.44:260][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2023.04.08-21.55.44:271][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2023.04.08-21.55.44:282][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2023.04.08-21.55.44:294][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2023.04.08-21.55.44:304][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2023.04.08-21.55.44:316][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2023.04.08-21.55.44:328][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2023.04.08-21.55.44:338][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2023.04.08-21.55.44:349][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2023.04.08-21.55.44:361][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2023.04.08-21.55.44:373][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2023.04.08-21.55.44:385][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2023.04.08-21.55.44:395][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2023.04.08-21.55.44:407][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2023.04.08-21.55.44:417][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2023.04.08-21.55.44:426][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2023.04.08-21.55.44:438][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2023.04.08-21.55.44:451][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2023.04.08-21.55.44:463][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2023.04.08-21.55.44:475][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2023.04.08-21.55.44:486][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2023.04.08-21.55.44:500][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Particles/P_Explosion.uasset"
+[2023.04.08-21.55.44:511][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Particles/P_Fire.uasset"
+[2023.04.08-21.55.44:524][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Particles/P_Smoke.uasset"
+[2023.04.08-21.55.44:535][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Particles/P_Sparks.uasset"
+[2023.04.08-21.55.44:547][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2023.04.08-21.55.44:560][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2023.04.08-21.55.44:572][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2023.04.08-21.55.44:587][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2023.04.08-21.55.44:601][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2023.04.08-21.55.44:611][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2023.04.08-21.55.44:621][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2023.04.08-21.55.44:634][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2023.04.08-21.55.44:644][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2023.04.08-21.55.44:661][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2023.04.08-21.55.44:672][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2023.04.08-21.55.44:683][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Props/MaterialSphere.uasset"
+[2023.04.08-21.55.44:702][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Props/SM_Bush.uasset"
+[2023.04.08-21.55.44:714][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Props/SM_Chair.uasset"
+[2023.04.08-21.55.44:725][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2023.04.08-21.55.44:735][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Props/SM_Couch.uasset"
+[2023.04.08-21.55.44:748][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Props/SM_Door.uasset"
+[2023.04.08-21.55.44:760][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2023.04.08-21.55.44:778][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2023.04.08-21.55.44:792][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2023.04.08-21.55.44:804][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2023.04.08-21.55.44:818][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2023.04.08-21.55.44:831][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2023.04.08-21.55.44:841][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2023.04.08-21.55.44:850][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Props/SM_Rock.uasset"
+[2023.04.08-21.55.44:863][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Props/SM_Shelf.uasset"
+[2023.04.08-21.55.44:874][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Props/SM_Stairs.uasset"
+[2023.04.08-21.55.44:886][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Props/SM_Statue.uasset"
+[2023.04.08-21.55.44:926][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Props/SM_TableRound.uasset"
+[2023.04.08-21.55.44:936][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2023.04.08-21.55.44:951][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2023.04.08-21.55.44:962][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2023.04.08-21.55.44:973][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2023.04.08-21.55.44:984][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2023.04.08-21.55.44:994][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2023.04.08-21.55.45:006][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2023.04.08-21.55.45:022][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2023.04.08-21.55.45:033][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2023.04.08-21.55.45:044][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2023.04.08-21.55.45:057][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2023.04.08-21.55.45:068][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2023.04.08-21.55.45:078][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2023.04.08-21.55.45:090][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2023.04.08-21.55.45:104][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2023.04.08-21.55.45:121][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2023.04.08-21.55.45:136][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2023.04.08-21.55.45:152][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2023.04.08-21.55.45:164][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2023.04.08-21.55.45:176][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2023.04.08-21.55.45:186][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2023.04.08-21.55.45:197][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2023.04.08-21.55.45:213][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2023.04.08-21.55.45:225][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2023.04.08-21.55.45:236][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2023.04.08-21.55.45:246][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2023.04.08-21.55.45:261][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2023.04.08-21.55.45:271][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2023.04.08-21.55.45:284][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2023.04.08-21.55.45:296][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2023.04.08-21.55.45:311][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2023.04.08-21.55.45:324][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2023.04.08-21.55.45:342][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2023.04.08-21.55.45:366][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2023.04.08-21.55.45:389][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2023.04.08-21.55.45:409][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2023.04.08-21.55.45:434][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2023.04.08-21.55.45:459][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2023.04.08-21.55.45:485][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2023.04.08-21.55.45:509][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2023.04.08-21.55.45:537][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2023.04.08-21.55.45:554][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2023.04.08-21.55.45:576][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2023.04.08-21.55.45:595][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2023.04.08-21.55.45:617][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2023.04.08-21.55.45:629][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2023.04.08-21.55.45:643][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2023.04.08-21.55.45:655][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2023.04.08-21.55.45:668][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2023.04.08-21.55.45:679][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2023.04.08-21.55.45:695][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2023.04.08-21.55.45:774][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2023.04.08-21.55.45:791][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2023.04.08-21.55.45:818][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2023.04.08-21.55.45:830][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2023.04.08-21.55.45:858][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2023.04.08-21.55.45:876][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2023.04.08-21.55.45:897][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2023.04.08-21.55.46:052][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2023.04.08-21.55.46:074][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2023.04.08-21.55.46:097][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2023.04.08-21.55.46:124][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2023.04.08-21.55.46:152][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2023.04.08-21.55.46:172][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2023.04.08-21.55.46:196][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2023.04.08-21.55.46:221][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2023.04.08-21.55.46:242][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2023.04.08-21.55.46:260][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2023.04.08-21.55.46:281][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2023.04.08-21.55.46:293][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2023.04.08-21.55.46:310][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2023.04.08-21.55.46:322][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Door_M.uasset"
+[2023.04.08-21.55.46:334][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Door_N.uasset"
+[2023.04.08-21.55.46:353][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2023.04.08-21.55.46:380][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2023.04.08-21.55.46:398][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2023.04.08-21.55.46:415][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2023.04.08-21.55.46:434][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2023.04.08-21.55.46:446][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2023.04.08-21.55.46:457][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2023.04.08-21.55.46:487][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2023.04.08-21.55.46:515][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2023.04.08-21.55.46:539][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2023.04.08-21.55.46:559][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2023.04.08-21.55.46:721][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2023.04.08-21.55.46:744][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2023.04.08-21.55.46:756][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2023.04.08-21.55.46:775][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2023.04.08-21.55.46:804][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2023.04.08-21.55.46:826][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2023.04.08-21.55.46:848][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2023.04.08-21.55.46:873][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2023.04.08-21.55.46:992][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2023.04.08-21.55.47:019][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2023.04.08-21.55.47:041][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2023.04.08-21.55.47:062][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2023.04.08-21.55.47:089][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2023.04.08-21.55.47:121][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2023.04.08-21.55.47:141][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2023.04.08-21.55.47:158][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2023.04.08-21.55.47:181][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2023.04.08-21.55.47:208][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2023.04.08-21.55.47:226][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2023.04.08-21.55.47:248][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2023.04.08-21.55.47:274][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2023.04.08-21.55.47:304][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2023.04.08-21.55.47:328][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2023.04.08-21.55.47:354][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2023.04.08-21.55.47:367][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2023.04.08-21.55.47:381][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2023.04.08-21.55.47:395][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2023.04.08-21.55.47:413][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2023.04.08-21.55.47:424][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2023.04.08-21.55.47:439][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2023.04.08-21.55.47:451][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2023.04.08-21.55.47:464][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2023.04.08-21.55.47:511][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2023.04.08-21.55.47:524][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2023.04.08-21.55.47:541][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2023.04.08-21.55.47:554][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2023.04.08-21.55.47:567][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2023.04.08-21.55.47:599][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2023.04.08-21.55.47:652][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2023.04.08-21.55.47:665][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2023.04.08-21.55.47:683][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Water_M.uasset"
+[2023.04.08-21.55.47:705][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Water_N.uasset"
+[2023.04.08-21.55.47:746][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2023.04.08-21.55.47:916][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2023.04.08-21.55.48:042][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2023.04.08-21.55.48:086][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2023.04.08-21.55.48:110][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2023.04.08-21.55.48:158][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2023.04.08-21.55.48:182][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2023.04.08-21.55.48:221][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2023.04.08-21.55.48:247][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2023.04.08-21.55.48:277][  0]LogStaticMesh: Building static mesh Floor_400x400...
+[2023.04.08-21.55.48:281][  0]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2023.04.08-21.55.48:458][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2023.04.08-21.55.49:053][  0]LogSavePackage: Moving '../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Saved/Floor_400x400014899CB4DB12E6F105EB1BD4435CD00.tmp' to '../../../../../../Users/panda/OneDrive/Documents/GitHub/FullyHacks-Unreal-Boilerplate/SampleProject/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2023.04.08-21.55.49:056][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2023.04.08-21.55.49:058][  0]LightingResults: New page: Lighting Build
+[2023.04.08-21.55.49:061][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.04.08-21.55.49:062][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.08-21.55.49:062][  0]MapCheck: New page: Map Check
+[2023.04.08-21.55.49:062][  0]LightingResults: New page: Lighting Build
+[2023.04.08-21.55.49:071][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.08-21.55.49:079][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2023.04.08-21.55.49:409][  0]LogTexture: Display: Building textures: HQ_Lightmap0_3 (OODLE_AutoDXT, 64X64)
+[2023.04.08-21.55.49:409][  0]LogTexture: Display: Building textures: SkyOcclusion0_3 (OODLE_AutoDXT, 64X32)
+[2023.04.08-21.55.49:409][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (OODLE_DXT1, 64X64)
+[2023.04.08-21.55.49:409][  0]LogTexture: Display: Building textures: SkyOcclusion0_2 (OODLE_AutoDXT, 512X256)
+[2023.04.08-21.55.49:409][  0]LogTexture: Display: Building textures: HQ_Lightmap0_2 (OODLE_AutoDXT, 512X512)
+[2023.04.08-21.55.49:409][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 64X32)
+[2023.04.08-21.55.49:409][  0]LogTexture: Display: Building textures: SkyOcclusion0_1 (OODLE_AutoDXT, 1024X512)
+[2023.04.08-21.55.49:409][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 2048X1024)
+[2023.04.08-21.55.49:409][  0]LogTexture: Display: Building textures: DeprecatedTextureC1D63E1744C966CDAE311FBF362794EC (BGRA8, 128X128)
+[2023.04.08-21.55.49:409][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (OODLE_DXT1, 512X512)
+[2023.04.08-21.55.49:409][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (OODLE_DXT1, 1024X1024)
+[2023.04.08-21.55.49:409][  0]LogTexture: Display: Building textures: HQ_Lightmap0_1 (OODLE_AutoDXT, 1024X1024)
+[2023.04.08-21.55.49:409][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.04.08-21.55.49:409][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.04.08-21.55.49:409][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.04.08-21.55.49:459][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2023.04.08-21.55.49:461][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.04.08-21.55.49:500][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.04.08-21.55.49:520][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2023.04.08-21.55.49:535][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.04.08-21.55.49:535][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.498ms to complete.
+[2023.04.08-21.55.49:536][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.478
+[2023.04.08-21.55.49:542][  0]LogUnrealEdMisc: Total Editor Startup Time, took 23.873
+[2023.04.08-21.55.49:844][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.08-21.55.49:858][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.08-21.55.49:871][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.08-21.55.49:886][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.08-21.55.49:958][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0222 seconds. Added 3824 classes and 930 folders.
+[2023.04.08-21.55.49:970][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2023.04.08-21.55.49:973][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.04.08-21.55.49:974][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.08-21.55.49:974][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.04.08-21.55.49:974][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.08-21.55.49:974][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2023.04.08-21.55.49:974][  0]LogPakFile: OnPakFileMounted2Time == 0.000135
+[2023.04.08-21.55.49:975][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.04.08-21.55.49:975][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.08-21.55.49:975][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.04.08-21.55.49:975][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.08-21.55.49:975][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2023.04.08-21.55.49:975][  0]LogPakFile: OnPakFileMounted2Time == 0.000062
+[2023.04.08-21.55.49:976][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2023.04.08-21.55.49:976][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.08-21.55.49:976][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2023.04.08-21.55.49:976][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.08-21.55.49:976][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2023.04.08-21.55.49:976][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
+[2023.04.08-21.55.49:977][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.04.08-21.55.49:977][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.08-21.55.49:977][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.04.08-21.55.49:977][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.08-21.55.49:977][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2023.04.08-21.55.49:977][  0]LogPakFile: OnPakFileMounted2Time == 0.000060
+[2023.04.08-21.55.49:978][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.04.08-21.55.49:978][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.08-21.55.49:978][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.04.08-21.55.49:978][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.08-21.55.49:978][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2023.04.08-21.55.49:978][  0]LogPakFile: OnPakFileMounted2Time == 0.000074
+[2023.04.08-21.55.49:979][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.04.08-21.55.49:979][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.08-21.55.49:979][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.04.08-21.55.49:979][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.08-21.55.49:979][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2023.04.08-21.55.49:979][  0]LogPakFile: OnPakFileMounted2Time == 0.000089
+[2023.04.08-21.55.49:980][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.04.08-21.55.49:980][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.08-21.55.49:980][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.04.08-21.55.49:980][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.08-21.55.49:980][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2023.04.08-21.55.49:980][  0]LogPakFile: OnPakFileMounted2Time == 0.000067
+[2023.04.08-21.55.49:981][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.04.08-21.55.49:981][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.08-21.55.49:981][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.04.08-21.55.49:981][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.08-21.55.49:981][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2023.04.08-21.55.49:981][  0]LogPakFile: OnPakFileMounted2Time == 0.000054
+[2023.04.08-21.55.49:981][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.04.08-21.55.49:981][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.08-21.55.49:981][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.04.08-21.55.49:981][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.08-21.55.49:981][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2023.04.08-21.55.49:981][  0]LogPakFile: OnPakFileMounted2Time == 0.000057
+[2023.04.08-21.55.49:982][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.04.08-21.55.49:982][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.08-21.55.49:982][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.04.08-21.55.49:982][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.08-21.55.49:982][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2023.04.08-21.55.49:982][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2023.04.08-21.55.49:983][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.04.08-21.55.49:983][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.08-21.55.49:983][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.04.08-21.55.49:983][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.08-21.55.49:983][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2023.04.08-21.55.49:983][  0]LogPakFile: OnPakFileMounted2Time == 0.000054
+[2023.04.08-21.55.49:984][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.04.08-21.55.49:984][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.08-21.55.49:984][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.04.08-21.55.49:984][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.08-21.55.49:984][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2023.04.08-21.55.49:984][  0]LogPakFile: OnPakFileMounted2Time == 0.000061
+[2023.04.08-21.55.49:985][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.04.08-21.55.49:985][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.08-21.55.49:985][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.04.08-21.55.49:985][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.08-21.55.49:985][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2023.04.08-21.55.49:985][  0]LogPakFile: OnPakFileMounted2Time == 0.000076
+[2023.04.08-21.55.49:987][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.04.08-21.55.49:987][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.08-21.55.49:987][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.04.08-21.55.49:987][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.08-21.55.49:987][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2023.04.08-21.55.49:987][  0]LogPakFile: OnPakFileMounted2Time == 0.000058
+[2023.04.08-21.55.49:988][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.04.08-21.55.49:988][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.08-21.55.49:988][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.04.08-21.55.49:988][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.08-21.55.49:988][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2023.04.08-21.55.49:988][  0]LogPakFile: OnPakFileMounted2Time == 0.000063
+[2023.04.08-21.55.49:988][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.04.08-21.55.49:988][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.08-21.55.49:988][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.04.08-21.55.49:989][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.08-21.55.49:989][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2023.04.08-21.55.49:989][  0]LogPakFile: OnPakFileMounted2Time == 0.000061
+[2023.04.08-21.55.49:989][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.04.08-21.55.49:989][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.08-21.55.49:989][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.04.08-21.55.49:989][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.08-21.55.49:989][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2023.04.08-21.55.49:989][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2023.04.08-21.55.49:990][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.04.08-21.55.49:990][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.08-21.55.49:990][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.04.08-21.55.49:991][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.08-21.55.49:991][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2023.04.08-21.55.49:991][  0]LogPakFile: OnPakFileMounted2Time == 0.000106
+[2023.04.08-21.55.49:991][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.04.08-21.55.49:991][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.08-21.55.49:991][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.04.08-21.55.49:991][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.08-21.55.49:993][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2023.04.08-21.55.49:993][  0]LogPakFile: OnPakFileMounted2Time == 0.000177
+[2023.04.08-21.55.49:994][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.04.08-21.55.49:994][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.08-21.55.49:994][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.04.08-21.55.49:994][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.08-21.55.49:994][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2023.04.08-21.55.49:994][  0]LogPakFile: OnPakFileMounted2Time == 0.000098
+[2023.04.08-21.55.49:994][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.04.08-21.55.49:994][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.08-21.55.49:994][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.04.08-21.55.49:994][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.08-21.55.49:994][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2023.04.08-21.55.49:994][  0]LogPakFile: OnPakFileMounted2Time == 0.000057
+[2023.04.08-21.55.49:995][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.04.08-21.55.49:995][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.08-21.55.49:995][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.04.08-21.55.49:995][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.08-21.55.49:995][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2023.04.08-21.55.49:995][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2023.04.08-21.55.49:996][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2023.04.08-21.55.49:996][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.08-21.55.49:996][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2023.04.08-21.55.49:996][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.08-21.55.49:996][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2023.04.08-21.55.49:996][  0]LogPakFile: OnPakFileMounted2Time == 0.000059
+[2023.04.08-21.55.49:997][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.04.08-21.55.49:997][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.08-21.55.49:997][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.04.08-21.55.49:997][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.08-21.55.49:997][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2023.04.08-21.55.49:997][  0]LogPakFile: OnPakFileMounted2Time == 0.000087
+[2023.04.08-21.55.49:999][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.04.08-21.55.49:999][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.08-21.55.49:999][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.04.08-21.55.49:999][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.08-21.55.49:999][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2023.04.08-21.55.49:999][  0]LogPakFile: OnPakFileMounted2Time == 0.000057
+[2023.04.08-21.55.50:000][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.04.08-21.55.50:000][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.08-21.55.50:000][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.04.08-21.55.50:000][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.08-21.55.50:000][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2023.04.08-21.55.50:000][  0]LogPakFile: OnPakFileMounted2Time == 0.000064
+[2023.04.08-21.55.50:111][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2023.04.08-21.55.50:120][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 2 classes and 0 folders.
+[2023.04.08-21.55.50:231][  0]LogSlate: Took 0.000265 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.04.08-21.55.50:255][  0]LogSlate: Took 0.019900 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.04.08-21.55.50:259][  0]LogSlate: Took 0.000379 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.04.08-21.55.50:466][  0]LogRenderer: Reallocating scene render targets to support 964x428 Format 10 NumSamples 1 (Frame:1).
+[2023.04.08-21.55.50:687][  0]LogSlate: Took 0.000447 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.04.08-21.55.51:336][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2023.04.08-21.55.51:336][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2023.04.08-21.55.51:336][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2023.04.08-21.55.51:336][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2023.04.08-21.55.51:336][  0]LogLoad: (Engine Initialization) Total time: 25.67 seconds
+[2023.04.08-21.55.51:336][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.04.08-21.55.51:360][  0]AssetCheck: New page: Asset Save: Floor_400x400
+[2023.04.08-21.55.51:360][  0]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2023.04.08-21.55.51:547][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.04.08-21.55.51:640][  1]LogAssetRegistry: Asset discovery search completed in 18.8646 seconds
+[2023.04.08-21.55.51:664][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000009 seconds (updated 0 objects)

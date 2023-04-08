@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "SampleProject",
+			"Path": "C:\\Users\\panda\\OneDrive\\Documents\\GitHub\\FullyHacks-Unreal-Boilerplate\\SampleProject\\Source\\SampleProject.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SampleProjectEditor",
+			"Path": "C:\\Users\\panda\\OneDrive\\Documents\\GitHub\\FullyHacks-Unreal-Boilerplate\\SampleProject\\Source\\SampleProjectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
